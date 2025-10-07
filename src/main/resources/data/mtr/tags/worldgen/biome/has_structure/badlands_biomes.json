@@ -1,0 +1,34 @@
+{
+    "replace": false,
+  
+    "_comment": " This biome tag can specify the biome directly. Or specify another biome tag by starting with # ",
+    "values": [
+        "#minecraft:is_badlands",
+      
+        { "id": "byg:red_rock_valley", "required": false },
+        { "id": "byg:baobab_savanna", "required": false },
+        { "id": "byg:mojave_desert", "required": false },
+        { "id": "byg:outback", "required": false },
+        { "id": "byg:shrublands", "required": false },
+      
+        { "id": "terralith:painted_mountains", "required": false },
+        { "id": "terralith:painted_valley", "required": false },
+        { "id": "terralith:rocky_jungle", "required": false },
+        { "id": "terralith:arid_highlands", "required": false },
+        { "id": "terralith:red_oasis", "required": false },
+      
+        { "id": "ww:badlands_plateau", "required": false },
+        { "id": "ww:red_desert", "required": false },
+        { "id": "ww:mesa", "required": false },
+        { "id": "ww:painted_desert", "required": false },
+        { "id": "ww:arid_steppe", "required": false },
+      
+        { "id": "caves_and_cliffs:eroded_badlands", "required": false },
+        { "id": "caves_and_cliffs:painted_badlands", "required": false },
+        { "id": "incendium:ashen_savanna", "required": false },
+        { "id": "regions_unexplored:arid_shrubland", "required": false },
+        { "id": "regions_unexplored:redstone_desert", "required": false },
+        { "id": "regions_unexplored:badlands_canyon", "required": false }
+      ]
+      
+  }
